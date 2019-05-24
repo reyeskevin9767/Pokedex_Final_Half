@@ -1,3 +1,5 @@
+Following along the Second Half of Pokedex from The Modern React Bootcamp
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
